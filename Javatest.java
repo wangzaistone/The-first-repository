@@ -4,5 +4,5 @@ class Javatest{
 //看看注释
 //add this in text
 + 支持中文？
-+支持中文？
+
 }
