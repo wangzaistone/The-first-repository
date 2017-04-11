@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
 # Custom for Visual Studio
 *.cs     diff=csharp
 
@@ -15,3 +14,6 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+#从这开始自己编辑的文字，4.11
+#这是一个在原文本上编辑，开始试着用的文本
